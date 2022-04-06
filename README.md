@@ -21,6 +21,7 @@
 <!-- ![Snake animation](https://github.com/posledniypoet/posledniypoet/blob/output/github-snake.svg) -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=posledniypoet&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=posledniypoet&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=posledniypoet&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=posledniypoet&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=posledniypoet&theme=solarized_dark)
 
