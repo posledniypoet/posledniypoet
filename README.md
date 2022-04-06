@@ -12,6 +12,7 @@
 ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 <h5> How to reach me:
+
 <br><br> 
 <a href="mailto:kalex01@bk.ru"><img src="https://img.shields.io/badge/-kalex01@bk.ru-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://t.me/posledniypoet"><img src="https://img.shields.io/badge/telegram-%40posledniypoet-blue"/></a> 
