@@ -1,6 +1,6 @@
 <h1>Hi there, my name is Alexander! </a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h4>Student in University ITMO, Faculty of Applied Mathematics and Computer Science</h3>
+<h3>Student in University ITMO, Faculty of Applied Mathematics and Computer Science</h3>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -12,7 +12,6 @@
 ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 <h5> How to reach me:
-
 <br><br> 
 <a href="mailto:kalex01@bk.ru"><img src="https://img.shields.io/badge/-kalex01@bk.ru-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://t.me/posledniypoet"><img src="https://img.shields.io/badge/telegram-%40posledniypoet-blue"/></a> 
@@ -20,11 +19,11 @@
 ![Snake animation](https://github.com/posledniypoet/posledniypoet/blob/output/github-snake.svg)
 
 <!-- ![Snake animation](https://github.com/posledniypoet/posledniypoet/blob/output/github-snake.svg) -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=posledniypoet&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=posledniypoet&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=posledniypoet&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=posledniypoet&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=posledniypoet&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=posledniypoet&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=posledniypoet&theme=solarized_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=posledniypoet&theme=solarized_dark)](https://github.com/posledniypoet/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=posledniypoet&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=posledniypoet&theme=solarized_dark)
 
 
 
